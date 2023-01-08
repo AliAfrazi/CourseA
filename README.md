@@ -1,4 +1,4 @@
-# course_a_fixed
+# Course A
 
 A new Flutter project.
 
